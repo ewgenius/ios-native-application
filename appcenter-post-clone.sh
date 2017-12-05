@@ -1,2 +1,1 @@
-echo "using 'exit 1' to break process"
-exit 1
+i'm not a valid shell command

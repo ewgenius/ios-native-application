@@ -1,1 +1,2 @@
 printenv
+exit 1
